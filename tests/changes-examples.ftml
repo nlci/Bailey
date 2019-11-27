@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../tools/ftml-multiple.xsl"?>
+<ftml version="1.0">
+  <head>
+    <fontscale>300</fontscale>
+    <fontsrc>url(../results/Bailey-Regular.ttf)</fontsrc>
+    <fontsrc>url(../tests/reference/Bailey-Regular.ttf)</fontsrc>
+    <fontsrc>url(../results/Bailey-Bold.ttf)</fontsrc>
+    <fontsrc>url(../tests/reference/Bailey-Bold.ttf)</fontsrc>
+    <title>Changes - Examples</title>
+  </head>
+  <testgroup label="u uu and vocalic r matras">
+    <test label="KA SIGN U">
+      <string>\u0d15\u0d41</string>
+    </test>
+    <test label="KA SIGN UU">
+      <string>\u0d15\u0d42</string>
+    </test>
+    <test label="KA SIGN VOCALIC R">
+      <string>\u0d15\u0d43</string>
+    </test>
+  </testgroup>
+</ftml>

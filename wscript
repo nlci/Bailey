@@ -9,12 +9,16 @@ STANDARDS='tests/reference'
 
 # set meta-information
 APPNAME='Bailey'
-VERSION='0.100'
+FAMILY = APPNAME
 COPYRIGHT='Copyright (c) 2019, NLCI (http://www.nlci.in/fonts/)'
-
 DESC_SHORT='Modified Malayalam font heavily based on Rachana'
 
-FAMILY = APPNAME
+VERSION='0.100'
+BUILDLABEL = "alpha1"
+
+# Set up the FTML tests
+ftmlTest('tools/ftml-list.xsl')
+
 styles = ('Regular', 'Bold')
 
 for s in styles:

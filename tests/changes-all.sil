@@ -1,0 +1,15 @@
+\begin[class=fontproof]{document}
+\bidi-off
+\setTestFont[]
+
+\proof{Bailey മലയാളലിപി}
+
+\section{u uu and vocalic r matras}
+
+\patterngroup[name="cons"]{കഖഗഘങചഛജഝഞടഠഡഢണതഥദധനഩപഫബഭമയരറലളഴവശഷസഹഺ}
+
+\pattern[chars="C",reps="group_cons",heading=C SIGN U]{C1ു}
+\pattern[chars="C",reps="group_cons",heading=C SIGN UU]{Cൂ}
+\pattern[chars="C",reps="group_cons",heading=C SIGN VOCALIC R]{Cൃ}
+
+\end{document}
