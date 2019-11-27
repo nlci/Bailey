@@ -9,16 +9,23 @@ STANDARDS='tests/reference'
 
 # set meta-information
 APPNAME='Bailey'
+VERSION='0.100'
+COPYRIGHT='Copyright (c) 2019, NLCI (http://www.nlci.in/fonts/)'
 
 DESC_SHORT='Modified Malayalam font heavily based on Rachana'
 
-FAMILY = 'Rachana'
+FAMILY = APPNAME
 styles = ('Regular', 'Bold')
 
 for s in styles:
-    font(target = FAMILY + '-' + s + '.ttf',
-        source = 'build/' + FAMILY + '-' + s + '.ttf',
+    font(target = process(FAMILY + '-' + s + '.ttf',
+            name(FAMILY, lang='en-US', subfamily=(s))
+            ),
+        source = 'build/Rachana-' + s + '.ttf',
         opentype = internal(),
+        version = VERSION,
+        copyright = COPYRIGHT,
+        license = ofl('Bailey', 'NLCI'),
         script = ['mlm2', 'mlym'],
         fret = fret(params = '-r -oi')
     )
