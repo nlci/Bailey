@@ -11,3 +11,9 @@ For more details about this project, including changelog and acknowledgements se
 
 For project documentation see [README.txt](README.txt).
 For the original README from the Rachana project see [README-rachana.md](README-rachana.md).
+
+### Rachana's Copyright Information 
+“Copyright: Digitized data copyright (c) 2004–2005 Rachana Akshara Vedi (Chitrajakumar R,
+Hussain KH, Gangadharan N, Vijayakumaran Nair, Subash Kuraiakose), (c) 2006–2016 Hussain
+KH, Suresh P, Santhosh Thottingal, Rajeesh K Nambiar, Swathanthra Malayalam Computing
+(http://smc.org.in). This file is licensed under OFL 1.1.”
