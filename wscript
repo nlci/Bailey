@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # this is a smith configuration file
 
 # set the default output folders
@@ -31,5 +31,5 @@ for s in styles:
         copyright = COPYRIGHT,
         license = ofl('Bailey', 'NLCI'),
         script = ['mlm2', 'mlym'],
-        fret = fret(params = '-r -oi')
+        fret = fret(params = '-oi')
     )
