@@ -10,7 +10,7 @@ STANDARDS='tests/reference'
 # set meta-information
 APPNAME='Bailey'
 FAMILY = APPNAME
-COPYRIGHT='Copyright (c) 2019, NLCI (http://www.nlci.in/fonts/)'
+COPYRIGHT='Copyright (c) 2019-2020, NLCI (http://www.nlci.in/fonts/)'
 DESC_SHORT='Modified Malayalam font heavily based on Rachana'
 
 VERSION='0.100'
