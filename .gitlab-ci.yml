@@ -10,7 +10,7 @@ build:
     # - add-apt-repository -y ppa:jonathonf/texlive-2019
     # - add-apt-repository -y ppa:git-core/ppa
     - apt-get update -q -y
-    - apt-get install libjson-perl libtext-csv-perl libharfbuzz-bin fontforge -y
+    - apt-get install libjson-perl libtext-csv-perl libharfbuzz-bin make fontforge -y
     - apt-get install smith-font -y --no-install-recommends
 
   script:
