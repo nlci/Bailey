@@ -27,6 +27,7 @@ jobs:
       - name: configure / build / test / release
         run: |
           # smith version
+          make
           smith configure
           smith build
           # smith alltests
