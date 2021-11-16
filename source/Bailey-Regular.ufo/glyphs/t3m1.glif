@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t3m1" format="2">
+  <advance width="2014"/>
+  <anchor x="1080" y="1080" name="visual_centrepoint"/>
+  <outline>
+    <component base="t3"/>
+    <contour>
+      <point x="1994" y="-644" type="line"/>
+      <point x="1994" y="-398" type="line" smooth="yes"/>
+      <point x="1994" y="-157"/>
+      <point x="1895" y="-36"/>
+      <point x="1698" y="-36" type="curve" smooth="yes"/>
+      <point x="1421" y="-36"/>
+      <point x="1410" y="-235"/>
+      <point x="1410" y="-430" type="curve" smooth="yes"/>
+      <point x="1410" y="-644" type="line"/>
+    </contour>
+    <contour>
+      <point x="1898" y="-592" type="line"/>
+      <point x="1568" y="-592" type="line"/>
+      <point x="1585" y="-579"/>
+      <point x="1603" y="-563"/>
+      <point x="1620" y="-546" type="curve" smooth="yes"/>
+      <point x="1672" y="-498" type="line"/>
+      <point x="1710" y="-460"/>
+      <point x="1740" y="-419"/>
+      <point x="1760" y="-388" type="curve"/>
+      <point x="1790" y="-332"/>
+      <point x="1796" y="-283"/>
+      <point x="1796" y="-254" type="curve" smooth="yes"/>
+      <point x="1796" y="-193"/>
+      <point x="1767" y="-140"/>
+      <point x="1710" y="-96" type="curve"/>
+      <point x="1789" y="-99"/>
+      <point x="1898" y="-119"/>
+      <point x="1898" y="-380" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1694" y="-234" type="curve" smooth="yes"/>
+      <point x="1694" y="-361"/>
+      <point x="1619" y="-479"/>
+      <point x="1470" y="-588" type="curve"/>
+      <point x="1470" y="-416" type="line" smooth="yes"/>
+      <point x="1470" y="-220"/>
+      <point x="1514" y="-122"/>
+      <point x="1602" y="-122" type="curve" smooth="yes"/>
+      <point x="1660" y="-122"/>
+      <point x="1694" y="-174"/>
+    </contour>
+  </outline>
+</glyph>

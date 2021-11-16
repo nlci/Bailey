@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="archaic_ii" format="2">
+  <advance width="2299"/>
+  <unicode hex="0D5F"/>
+  <outline>
+    <component base="anusvara" xScale="0.695965" yScale="0.739943" xOffset="41" yOffset="193"/>
+    <component base="anusvara" xScale="0.695965" yScale="0.739943" xOffset="1699" yOffset="188"/>
+    <component base="r3" xOffset="608" yOffset="1"/>
+    <contour>
+      <point x="2300" y="428" type="move" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="362" y="604" type="move" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="362" y="252" type="move" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

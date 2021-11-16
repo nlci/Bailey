@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../tools/ftml.xsl"?>
+<ftml version="1.0">
+  <head>
+    <fontscale>300</fontscale>
+    <fontsrc>url(../results/Bailey-Regular.ttf)</fontsrc>
+    <fontsrc>url(../references/Bailey-Regular.ttf)</fontsrc>
+    <fontsrc>url(../results/Bailey-Bold.ttf)</fontsrc>
+    <fontsrc>url(../references/Bailey-Bold.ttf)</fontsrc>
+    <title>Transform</title>
+  </head>
+  <testgroup label="scaling or rotation">
+    <test label="ARCHAIC II from components">
+      <string>\u0d5f \u0d02\u0d30\u0d02</string>
+    </test>
+    <test label="orumaa from components">
+      <string>\u0d5b \u0d35</string>
+    </test>
+    <test label="SA-VIRAMA-KA from components">
+      <string>\u0d38\u0d4d\u0d15 \u0d38</string>
+    </test>
+  </testgroup>
+</ftml>

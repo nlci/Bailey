@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p3k3" format="2">
+  <advance width="2096"/>
+  <anchor x="960" y="1080" name="visual_centrepoint"/>
+  <outline>
+    <component base="p3"/>
+    <contour>
+      <point x="1860" y="-46" type="curve" smooth="yes"/>
+      <point x="1758" y="-46"/>
+      <point x="1627" y="-119"/>
+      <point x="1630" y="-294" type="curve" smooth="yes"/>
+      <point x="1630" y="-331"/>
+      <point x="1630" y="-367"/>
+      <point x="1630" y="-404" type="curve" smooth="yes"/>
+      <point x="1630" y="-561"/>
+      <point x="1535" y="-570"/>
+      <point x="1512" y="-570" type="curve" smooth="yes"/>
+      <point x="1345" y="-570"/>
+      <point x="1344" y="-341"/>
+      <point x="1344" y="-334" type="curve" smooth="yes"/>
+      <point x="1344" y="-222"/>
+      <point x="1376" y="-156"/>
+      <point x="1484" y="-86" type="curve"/>
+      <point x="1446" y="-40" type="line"/>
+      <point x="1330" y="-108"/>
+      <point x="1272" y="-213"/>
+      <point x="1272" y="-356" type="curve" smooth="yes"/>
+      <point x="1272" y="-442"/>
+      <point x="1303" y="-662"/>
+      <point x="1526" y="-662" type="curve" smooth="yes"/>
+      <point x="1626" y="-662"/>
+      <point x="1742" y="-597"/>
+      <point x="1742" y="-442" type="curve"/>
+      <point x="1740" y="-356" type="line" smooth="yes"/>
+      <point x="1740" y="-352"/>
+      <point x="1740" y="-348"/>
+      <point x="1740" y="-344" type="curve" smooth="yes"/>
+      <point x="1740" y="-149"/>
+      <point x="1838" y="-138"/>
+      <point x="1860" y="-138" type="curve" smooth="yes"/>
+      <point x="1969" y="-138"/>
+      <point x="2024" y="-254"/>
+      <point x="2024" y="-364" type="curve" smooth="yes"/>
+      <point x="2024" y="-485"/>
+      <point x="1969" y="-571"/>
+      <point x="1860" y="-622" type="curve"/>
+      <point x="1898" y="-668" type="line"/>
+      <point x="2079" y="-581"/>
+      <point x="2098" y="-403"/>
+      <point x="2098" y="-332" type="curve" smooth="yes"/>
+      <point x="2098" y="-200"/>
+      <point x="2029" y="-46"/>
+    </contour>
+  </outline>
+</glyph>

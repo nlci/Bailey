@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Generating new glyphs file"
+psfufo2glyphs source/Bailey.designspace source/Bailey.glyphs

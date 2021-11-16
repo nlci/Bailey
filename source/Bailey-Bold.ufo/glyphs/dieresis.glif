@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="2">
+  <advance width="794"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="287" y="1205" type="curve" smooth="yes"/>
+      <point x="224" y="1205"/>
+      <point x="162" y="1160"/>
+      <point x="162" y="1089" type="curve" smooth="yes"/>
+      <point x="162" y="1019"/>
+      <point x="224" y="975"/>
+      <point x="287" y="975" type="curve" smooth="yes"/>
+      <point x="349" y="975"/>
+      <point x="413" y="1019"/>
+      <point x="413" y="1089" type="curve" smooth="yes"/>
+      <point x="413" y="1160"/>
+      <point x="352" y="1205"/>
+    </contour>
+    <contour>
+      <point x="648" y="1205" type="curve" smooth="yes"/>
+      <point x="584" y="1205"/>
+      <point x="521" y="1160"/>
+      <point x="521" y="1089" type="curve" smooth="yes"/>
+      <point x="521" y="1019"/>
+      <point x="584" y="975"/>
+      <point x="648" y="975" type="curve" smooth="yes"/>
+      <point x="711" y="975"/>
+      <point x="773" y="1019"/>
+      <point x="773" y="1089" type="curve" smooth="yes"/>
+      <point x="773" y="1160"/>
+      <point x="711" y="1205"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>980</integer>
+            <key>width</key>
+            <integer>253</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>98</integer>
+            <key>width</key>
+            <integer>264</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>98</integer>
+            <key>width</key>
+            <integer>694</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>528</integer>
+            <key>width</key>
+            <integer>264</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anusvaraabove" format="2">
+  <unicode hex="0D00"/>
+  <anchor x="-806" y="1080" name="_visual_centrepoint"/>
+  <outline>
+    <component base="anusvara" xOffset="-1278" yOffset="1066"/>
+  </outline>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticalbarvirama" format="2">
+  <unicode hex="0D3B"/>
+  <anchor x="-806" y="1080" name="_visual_centrepoint"/>
+  <outline>
+    <contour>
+      <point x="-795" y="1661" type="curve" smooth="yes"/>
+      <point x="-816" y="1661"/>
+      <point x="-878" y="1621"/>
+      <point x="-878" y="1533" type="curve" smooth="yes"/>
+      <point x="-878" y="1519" type="line"/>
+      <point x="-836" y="1088" type="line"/>
+      <point x="-760" y="1088" type="line"/>
+      <point x="-715" y="1511" type="line"/>
+      <point x="-707" y="1641"/>
+      <point x="-793" y="1661"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-48</integer>
+            <key>width</key>
+            <integer>260</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1211</integer>
+            <key>width</key>
+            <integer>19</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>98</integer>
+            <key>width</key>
+            <integer>264</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

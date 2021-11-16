@@ -4,26 +4,25 @@
 # set meta-information
 APPNAME='Bailey'
 FAMILY = APPNAME
-COPYRIGHT='Copyright (c) 2019-2021, NLCI (http://www.nlci.in/fonts/)'
-DESC_SHORT='Modified Malayalam font heavily based on Rachana'
 
-VERSION='0.100'
-# BUILDLABEL = "alpha1"
+# Get version and authorship info from Regular UFO
+# must be first function call:
+getufoinfo('source/' + FAMILY  + '-Regular.ufo')
 
 # Set up the FTML tests
 ftmlTest('tools/ftml-smith.xsl')
 
-styles = ('Regular', 'Bold')
-
-for s in styles:
-    font(target = process(FAMILY + '-' + s + '.ttf',
-            name(FAMILY, lang='en-US', subfamily=(s))
-            ),
-        source = 'build/Rachana-' + s + '.ttf',
-        opentype = internal(),
-        version = VERSION,
-        copyright = COPYRIGHT,
-        license = ofl('Bailey', 'NLCI'),
-        script = ['mlm2', 'mlym'],
-        pdf = fret(params = '-oi')
+designspace('source/' + FAMILY + '.designspace',
+    target = process('${DS:FILENAME_BASE}.ttf'),
+    #     cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['${DS:FILE}'])
+    # ),
+    opentype = fea('features/Rachana-${DS:STYLENAME}.fea',
+        mapfile = 'generated/' + '${DS:FILENAME_BASE}.map',
+        no_make = 1,
+        ),
+    version = VERSION,
+    woff = woff('web/${DS:FILENAME_BASE}',
+        metadata = f'../source/{FAMILY}-WOFF-metadata.xml'),
+    script = ['mlm2', 'mlym'],
+    pdf = fret(params='-oi')
     )

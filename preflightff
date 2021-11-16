@@ -1,0 +1,5 @@
+#!/bin/sh
+
+psffixffglifs -p checkfix=fix source/Bailey-Regular.ufo &
+psffixffglifs -p checkfix=fix source/Bailey-Bold.ufo &
+./preflight

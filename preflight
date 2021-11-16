@@ -1,0 +1,23 @@
+#!/bin/sh
+
+# This normalization will also run check and fix routines
+psfnormalize -p checkfix=fix source/Bailey-Regular.ufo   &
+psfnormalize -p checkfix=fix source/Bailey-Bold.ufo &
+wait
+
+# Update glyph order in Regular UFO
+# psfsetglyphorder --header sort_final -i source/glyph_data.csv source/Bailey-Regular.ufo
+
+# Update production names in Regular UFO
+# psfsetpsnames -i source/glyph_data.csv source/Bailey-Regular.ufo
+
+# Sync glyph orders, psnames, and other metadata
+# psfsyncmasters --complex -q source/Bailey.designspace
+
+# Create WOFF metadata file
+psfmakewoffmetadata -n Bailey -i in.nlci.fonts -o source/Bailey-WOFF-metadata.xml source/Bailey-Regular.ufo # --populateufowoff --force
+
+# Update FEA in UFO
+psfmakefea -o source/Bailey-Regular.ufo/features.fea -i features/Rachana-Regular.fea source/Bailey-Regular.ufo &
+psfmakefea -o source/Bailey-Bold.ufo/features.fea    -i features/Rachana-Bold.fea source/Bailey-Bold.ufo &
+wait

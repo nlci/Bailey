@@ -110,11 +110,12 @@ def opentype(infont, outdir, type, feature, version):
     font.appendSFNTName('English (US)', 'Version',
                         'Version ' + version + '.0+' + time.strftime('%Y%m%d'))
     font.selection.all()
-    font.correctReferences()
-    font.simplify()
+    # font.correctReferences()
+    # font.simplify()
     font.selection.none()
     # fix some common font issues
     validateGlyphs(font)
+    font.save('source/' + infont)
     font.generate(tmpfont, flags=flags)
     font.close()
     # now open in fontTools

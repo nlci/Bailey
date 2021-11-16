@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ngxx" format="2">
+  <advance width="1835"/>
+  <outline>
+    <component base="ng"/>
+    <component base="xx" xOffset="1651"/>
+  </outline>
+</glyph>

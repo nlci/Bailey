@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="th2" format="2">
+  <advance width="1498"/>
+  <unicode hex="0D25"/>
+  <anchor x="860" y="1080" name="visual_centrepoint"/>
+  <outline>
+    <contour>
+      <point x="1070" y="922" type="curve" smooth="yes"/>
+      <point x="896" y="922"/>
+      <point x="668" y="818"/>
+      <point x="668" y="532" type="curve" smooth="yes"/>
+      <point x="668" y="70" type="line"/>
+      <point x="330" y="70" type="line"/>
+      <point x="330" y="902" type="line"/>
+      <point x="158" y="902" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="1500" y="0" type="line"/>
+      <point x="1500" y="472" type="line" smooth="yes"/>
+      <point x="1500" y="814"/>
+      <point x="1242" y="922"/>
+    </contour>
+    <contour>
+      <point x="1132" y="816" type="curve" smooth="yes"/>
+      <point x="1248" y="816"/>
+      <point x="1434" y="735"/>
+      <point x="1434" y="448" type="curve" smooth="yes"/>
+      <point x="1434" y="70" type="line"/>
+      <point x="836" y="70" type="line"/>
+      <point x="836" y="492" type="line" smooth="yes"/>
+      <point x="836" y="723"/>
+      <point x="1003" y="816"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+@font-face {
+  font-family: DesignW;
+  src: url(Bailey-Bold.woff2);
+}
+body {
+  font-family: DesignW, sans;
+  /* fall back to sans so that it's really obvious if the fonts don't load */
+}
+.design {
+  font-family: DesignW;
+}

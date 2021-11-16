@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ZWJ" format="2">
+  <advance width="466"/>
+  <unicode hex="200D"/>
+  <outline>
+    <contour>
+      <point x="509" y="833" type="line"/>
+      <point x="319" y="1109" type="line"/>
+      <point x="497" y="1354" type="line"/>
+      <point x="389" y="1354" type="line"/>
+      <point x="266" y="1175" type="line"/>
+      <point x="245" y="1210"/>
+      <point x="207" y="1270"/>
+      <point x="153" y="1354" type="curve"/>
+      <point x="43" y="1354" type="line"/>
+      <point x="215" y="1105" type="line"/>
+      <point x="29" y="833" type="line"/>
+      <point x="135" y="833" type="line"/>
+      <point x="185" y="910" type="line"/>
+      <point x="185" y="44" type="line"/>
+      <point x="347" y="44" type="line"/>
+      <point x="345" y="918" type="line"/>
+      <point x="401" y="833" type="line"/>
+    </contour>
+    <contour>
+      <point x="272" y="1031" type="line"/>
+      <point x="264" y="1031" type="line"/>
+      <point x="268" y="1038" type="line"/>
+    </contour>
+    <contour>
+      <point x="343" y="925" type="line"/>
+      <point x="276" y="1029" type="line"/>
+      <point x="343" y="1029" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="1029" type="line"/>
+      <point x="187" y="917" type="line"/>
+      <point x="187" y="1030" type="line"/>
+    </contour>
+  </outline>
+</glyph>

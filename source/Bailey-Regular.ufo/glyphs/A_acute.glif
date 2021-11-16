@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aacute" format="2">
+  <advance width="1149"/>
+  <unicode hex="00C1"/>
+  <outline>
+    <contour>
+      <point x="411" y="548" type="line"/>
+      <point x="582" y="1040" type="line"/>
+      <point x="774" y="548" type="line"/>
+    </contour>
+    <contour>
+      <point x="1177" y="1" type="line"/>
+      <point x="999" y="376"/>
+      <point x="847" y="704"/>
+      <point x="699" y="1212" type="curve"/>
+      <point x="545" y="1212" type="line"/>
+      <point x="130" y="1" type="line"/>
+      <point x="232" y="1" type="line"/>
+      <point x="378" y="447" type="line"/>
+      <point x="443" y="452"/>
+      <point x="513" y="454"/>
+      <point x="588" y="454" type="curve" smooth="yes"/>
+      <point x="667" y="454"/>
+      <point x="742" y="452"/>
+      <point x="811" y="447" type="curve"/>
+      <point x="975" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="728" y="1523" type="line"/>
+      <point x="689" y="1444"/>
+      <point x="641" y="1369"/>
+      <point x="586" y="1300" type="curve"/>
+      <point x="718" y="1300" type="line"/>
+      <point x="919" y="1523" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>107</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>89</integer>
+            <key>width</key>
+            <integer>1015</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

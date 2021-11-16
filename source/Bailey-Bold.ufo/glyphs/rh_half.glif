@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rh_half" format="2">
+  <advance width="1519"/>
+  <unicode hex="0D3A"/>
+  <anchor x="860" y="1080" name="visual_centrepoint"/>
+  <outline>
+    <contour>
+      <point x="1519" y="153" type="line"/>
+      <point x="420" y="153" type="line"/>
+      <point x="965" y="951" type="line"/>
+      <point x="735" y="951" type="line"/>
+      <point x="110" y="-1" type="line"/>
+      <point x="744" y="-1" type="line"/>
+      <point x="744" y="-505" type="line"/>
+      <point x="946" y="-505" type="line"/>
+      <point x="946" y="-1" type="line"/>
+      <point x="1519" y="-1" type="line"/>
+    </contour>
+  </outline>
+</glyph>
