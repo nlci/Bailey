@@ -100,6 +100,8 @@
   <string>R_.glif</string>
   <key>S</key>
   <string>S_.glif</string>
+  <key>Scaron</key>
+  <string>S_caron.glif</string>
   <key>T</key>
   <string>T_.glif</string>
   <key>Thorn</key>
@@ -124,12 +126,16 @@
   <string>Y_.glif</string>
   <key>Yacute</key>
   <string>Y_acute.glif</string>
+  <key>Ydieresis</key>
+  <string>Y_dieresis.glif</string>
   <key>Z</key>
   <string>Z_.glif</string>
   <key>ZWJ</key>
   <string>Z_W_J_.glif</string>
   <key>ZWNJ</key>
   <string>Z_W_N_J_.glif</string>
+  <key>Zcaron</key>
+  <string>Z_caron.glif</string>
   <key>a</key>
   <string>a.glif</string>
   <key>a2</key>
@@ -1656,6 +1662,8 @@
   <string>s1u2.glif</string>
   <key>s1xx</key>
   <string>s1xx.glif</string>
+  <key>scaron</key>
+  <string>scaron.glif</string>
   <key>section</key>
   <string>section.glif</string>
   <key>semicolon</key>
@@ -2310,6 +2318,8 @@
   <string>z1z1u1.glif</string>
   <key>z1z1u2</key>
   <string>z1z1u2.glif</string>
+  <key>zcaron</key>
+  <string>zcaron.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
   <key>zero.old</key>

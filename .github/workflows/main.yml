@@ -27,7 +27,6 @@ jobs:
       - name: configure / build / test / release
         run: |
           # smith version
-          make
           smith configure
           smith build
           # smith alltests
@@ -36,5 +35,5 @@ jobs:
           # smith release
       - uses: actions/upload-artifact@master
         with:
-          name: artifacts
+          name: download
           path: results/releases

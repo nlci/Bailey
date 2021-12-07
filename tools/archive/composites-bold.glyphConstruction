@@ -1,0 +1,9 @@
+*otilde = o + gctilde | 00F5
+*odieresis = o + gcdieresis | 00F6
+*oslash = o + slash | 00F8
+*ugrave = u + gcgrave | 00F9
+*uacute = u + gcacute | 00FA
+*ucircumflex = u + gccircumflex| 00FB
+*udieresis = u + gcdieresis | 00FC
+*yacute = y + gcacute | 00FD
+*ydieresis = y + gcdieresis | 00FF

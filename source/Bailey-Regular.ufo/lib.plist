@@ -14,5 +14,16 @@
   <string>Regular</string>
   <key>com.schriftgestaltung.widthValue</key>
   <integer>100</integer>
+  <key>public.glyphOrder</key>
+  <array>
+    <string>gcCircumflex</string>
+    <string>gccircumflex</string>
+    <string>gcDieresis</string>
+    <string>Scaron</string>
+    <string>scaron</string>
+    <string>Ydieresis</string>
+    <string>Zcaron</string>
+    <string>zcaron</string>
+  </array>
 </dict>
 </plist>

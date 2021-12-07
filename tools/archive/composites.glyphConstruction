@@ -1,0 +1,5 @@
+*Scaron = S + gcCircumflex@`~top+100` | 0160
+*scaron = s + gccircumflex@`~top+100` | 0161
+*Ydieresis = Y + gcDieresis | 0178
+*Zcaron = Z + gcCircumflex@`~top+100` | 017D
+*zcaron = z + gccircumflex@`~top+100` | 017E

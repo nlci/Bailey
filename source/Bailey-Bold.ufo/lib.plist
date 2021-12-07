@@ -16,5 +16,29 @@
   <string>Regular</string>
   <key>com.schriftgestaltung.widthValue</key>
   <integer>100</integer>
+  <key>public.glyphOrder</key>
+  <array>
+    <string>gctilde</string>
+    <string>gcdieresis</string>
+    <string>gcgrave</string>
+    <string>gcacute</string>
+    <string>gcCircumflex</string>
+    <string>gccircumflex</string>
+    <string>gcDieresis</string>
+    <string>otilde</string>
+    <string>odieresis</string>
+    <string>oslash</string>
+    <string>ugrave</string>
+    <string>uacute</string>
+    <string>ucircumflex</string>
+    <string>udieresis</string>
+    <string>yacute</string>
+    <string>ydieresis</string>
+    <string>Scaron</string>
+    <string>scaron</string>
+    <string>Ydieresis</string>
+    <string>Zcaron</string>
+    <string>zcaron</string>
+  </array>
 </dict>
 </plist>
