@@ -1208,8 +1208,6 @@
   <string>oslash.glif</string>
   <key>otilde</key>
   <string>otilde.glif</string>
-  <key>overscore</key>
-  <string>overscore.glif</string>
   <key>p</key>
   <string>p.glif</string>
   <key>p1</key>
@@ -2128,8 +2126,6 @@
   <string>uni00B_2.glif</string>
   <key>uni00B3</key>
   <string>uni00B_3.glif</string>
-  <key>uni00B5</key>
-  <string>uni00B_5.glif</string>
   <key>uni00B9</key>
   <string>uni00B_9.glif</string>
   <key>uni2074</key>

@@ -136,6 +136,16 @@
   <string>Z_W_N_J_.glif</string>
   <key>Zcaron</key>
   <string>Z_caron.glif</string>
+  <key>_1</key>
+  <string>_1.glif</string>
+  <key>_2</key>
+  <string>_2.glif</string>
+  <key>_3</key>
+  <string>_3.glif</string>
+  <key>_5</key>
+  <string>_5.glif</string>
+  <key>_6</key>
+  <string>_6.glif</string>
   <key>a</key>
   <string>a.glif</string>
   <key>a2</key>
@@ -852,6 +862,8 @@
   <string>maakaani.glif</string>
   <key>macron</key>
   <string>macron.glif</string>
+  <key>middot</key>
+  <string>middot.glif</string>
   <key>minus</key>
   <string>minus.glif</string>
   <key>ml_0</key>

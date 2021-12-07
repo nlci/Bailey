@@ -1,7 +1,3 @@
-gctilde
-gcdieresis
-gcgrave
-gcacute
 gcCircumflex
 gccircumflex
 gcDieresis

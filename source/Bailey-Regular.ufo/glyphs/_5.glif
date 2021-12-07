@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_5" format="2">
+  <advance width="956"/>
+  <outline>
+    <contour>
+      <point x="955" y="445" type="line"/>
+      <point x="154" y="445" type="line"/>
+      <point x="154" y="264" type="line"/>
+      <point x="955" y="264" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>258</integer>
+            <key>width</key>
+            <integer>176</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
