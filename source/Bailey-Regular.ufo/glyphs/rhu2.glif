@@ -82,8 +82,5 @@
       <point x="968" y="-315"/>
       <point x="885" y="-406"/>
     </contour>
-    <contour>
-      <point x="738" y="-20" type="move" smooth="yes"/>
-    </contour>
   </outline>
 </glyph>
