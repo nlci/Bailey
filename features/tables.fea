@@ -1,7 +1,7 @@
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 
-@GDEF_Simple = [.notdef .null nonmarkingreturn CR space exclam quotedbl
+@GDEF_Simple = [.notdef .null nonmarkingreturn space exclam quotedbl
     numbersign dollar percent ampersand quotesingle parenleft parenright
     asterisk plus comma hyphen period slash zero one two three four five
     six seven eight nine colon semicolon less equal greater question at A B
@@ -13,7 +13,7 @@
     th2 th3 th4 n1 p1 p2 p3 p4 m1 y1 r3 rh l3 lh zh v1 z1 sh s1 h1 avagraha
     a2 i1 i2 u1 u2 r1 r2 e1 e2 ai1 o1 o2 au1 au2 ml_rr ml_ll ml_0 ml_1 ml_2
     ml_3 ml_4 ml_5 ml_6 ml_7 ml_8 ml_9 ZWNJ ZWJ uni25CC NULL rupee datemark
-    ml_1000 l2 l1 n2 r2 ml_100 ml_10 ml_quarter ml_half ml_3quarter rh_half
+    ml_1000 l2 l1 n2 r2 ml_100 ml_10 ml_quarter ml_half ml_3quarter t0
     endash emdash bullet zero.old one.old two.old three.old four.old
     five.old six.old seven.old eight.old nine.old
     onequarter onehalf threequarters ellipsis plusminus multiply

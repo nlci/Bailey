@@ -1,3 +1,4 @@
 gcCircumflex
 gccircumflex
 gcDieresis
+CR

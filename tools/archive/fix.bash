@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ar=../tools/archive
 for ufo in *.ufo
 do
@@ -24,4 +26,6 @@ psfdeleteglyphs -i $ar/delete.txt Bailey-B*.ufo
 psfdeleteglyphs -i $ar/delete.txt Bailey-R*.ufo
 
 psfrenameglyphs -i $ar/rename-bold.csv Bailey-B*.ufo
+psfrenameglyphs -i $ar/rename.csv Bailey-B*.ufo
+psfrenameglyphs -i $ar/rename.csv Bailey-R*.ufo
 psfsetunicodes -i $ar/encode-bold.csv Bailey-B*.ufo

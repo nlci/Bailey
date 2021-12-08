@@ -8,6 +8,9 @@ ufo = sys.argv[1]
 font = OpenFont(ufo)
 
 # Modify UFO
+one = font['.null']
+one.unicode = None
+
 for glyph in font:
     for contour in glyph.contours:
         # Reverse contour direction since the glyphs came from

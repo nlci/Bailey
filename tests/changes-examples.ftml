@@ -5,8 +5,10 @@
     <fontscale>300</fontscale>
     <fontsrc>url(../results/Bailey-Regular.ttf)</fontsrc>
     <fontsrc>url(../references/Bailey-Regular.ttf)</fontsrc>
+    <fontsrc>url(../references/Rachana-Regular.ttf)</fontsrc>
     <fontsrc>url(../results/Bailey-Bold.ttf)</fontsrc>
     <fontsrc>url(../references/Bailey-Bold.ttf)</fontsrc>
+    <fontsrc>url(../references/Rachana-Bold.ttf)</fontsrc>
     <title>Changes - Examples</title>
   </head>
   <testgroup label="u uu and vocalic r matras">

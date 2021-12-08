@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ar=../tools/archive
 rm -rf Bailey-*.ufo
 for sfd in *.sfd
