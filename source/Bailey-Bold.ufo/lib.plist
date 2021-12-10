@@ -230,9 +230,22 @@
     <string>Ydieresis</string>
     <string>Zcaron</string>
     <string>zcaron</string>
+    <string>florin</string>
+    <string>glottalstop</string>
     <string>circumflex</string>
+    <string>caron</string>
+    <string>colontriangularmod</string>
+    <string>breve</string>
+    <string>dotaccent</string>
     <string>ring</string>
+    <string>ogonek</string>
     <string>tilde</string>
+    <string>hungarumlaut</string>
+    <string>cgj</string>
+    <string>Omega</string>
+    <string>pi</string>
+    <string>danda</string>
+    <string>dandadbl</string>
     <string>anusvaraabove</string>
     <string>mlchandrabindu</string>
     <string>anusvara</string>
@@ -338,25 +351,123 @@
     <string>l3cil</string>
     <string>lhcil</string>
     <string>k1cil</string>
+    <string>enquad</string>
+    <string>emquad</string>
+    <string>enspace</string>
+    <string>emspace</string>
+    <string>threeperemspace</string>
+    <string>fourperemspace</string>
+    <string>sixperemspace</string>
+    <string>figurespace</string>
+    <string>punctuationspace</string>
+    <string>thinspace</string>
+    <string>hairspace</string>
+    <string>zwsp</string>
     <string>ZWNJ</string>
     <string>ZWJ</string>
+    <string>hyphentwo</string>
+    <string>nbhyphen</string>
+    <string>figuredash</string>
     <string>endash</string>
     <string>emdash</string>
+    <string>horizontalbar</string>
     <string>quoteleft</string>
     <string>quoteright</string>
     <string>quotesinglbase</string>
     <string>quotedblleft</string>
     <string>quotedblright</string>
     <string>quotedblbase</string>
+    <string>dagger</string>
+    <string>daggerdbl</string>
     <string>bullet</string>
     <string>ellipsis</string>
+    <string>hyphenationpoint</string>
+    <string>lineseparator</string>
+    <string>paragraphseparator</string>
+    <string>nnbspace</string>
+    <string>perthousand</string>
     <string>guilsinglleft</string>
     <string>guilsinglright</string>
+    <string>fraction</string>
+    <string>wj</string>
+    <string>zerosuperior</string>
     <string>uni2074</string>
+    <string>fivesuperior</string>
+    <string>sixsuperior</string>
+    <string>sevensuperior</string>
+    <string>eightsuperior</string>
+    <string>ninesuperior</string>
+    <string>hyphensuperior</string>
+    <string>parenleftsuperior</string>
+    <string>parenrightsuperior</string>
+    <string>rs</string>
     <string>Euro</string>
     <string>rupee</string>
+    <string>trademark</string>
+    <string>Ohm</string>
+    <string>partialdiff</string>
+    <string>Delta</string>
+    <string>product</string>
+    <string>summation</string>
     <string>minus</string>
+    <string>divisionslash</string>
+    <string>bulletoperator</string>
+    <string>radical</string>
+    <string>infinity</string>
+    <string>integral</string>
+    <string>approxequal</string>
+    <string>notequal</string>
+    <string>lessequal</string>
+    <string>greaterequal</string>
+    <string>ceilingleft</string>
+    <string>ceilingright</string>
+    <string>floorleft</string>
+    <string>floorright</string>
+    <string>cornerlefttop</string>
+    <string>cornerrighttop</string>
+    <string>cornerleftbottom</string>
+    <string>cornerrightbottom</string>
+    <string>openbox</string>
+    <string>lozenge</string>
     <string>uni25CC</string>
+    <string>halfbracketlefttop</string>
+    <string>halfbracketrighttop</string>
+    <string>halfbracketleftbottom</string>
+    <string>halfbracketrightbottom</string>
+    <string>sidebearingleft</string>
+    <string>sidebearingright</string>
+    <string>fi</string>
+    <string>fl</string>
+    <string>VS1</string>
+    <string>VS2</string>
+    <string>VS3</string>
+    <string>VS4</string>
+    <string>VS5</string>
+    <string>VS6</string>
+    <string>VS7</string>
+    <string>VS8</string>
+    <string>VS9</string>
+    <string>VS10</string>
+    <string>VS11</string>
+    <string>VS12</string>
+    <string>VS13</string>
+    <string>VS14</string>
+    <string>VS15</string>
+    <string>VS16</string>
+    <string>zwnbsp</string>
+    <string>objectReplacementCharacter</string>
+    <string>replacementCharacter</string>
+    <string>GrCapPi</string>
+    <string>HyphenMinus</string>
+    <string>LtnCapEsh</string>
+    <string>LtnSmF</string>
+    <string>LtnSmI</string>
+    <string>LtnSmL</string>
+    <string>MiddleDot</string>
+    <string>ModBeginHighTn</string>
+    <string>ModBeginLowTn</string>
+    <string>ModEndHighTn</string>
+    <string>ModEndLowTn</string>
     <string>NULL</string>
     <string>_1</string>
     <string>_2</string>

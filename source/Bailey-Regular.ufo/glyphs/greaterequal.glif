@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greaterequal" format="2">
+  <advance width="827"/>
+  <unicode hex="2265"/>
+  <outline>
+    <contour>
+      <point x="53" y="864" type="curve"/>
+      <point x="70" y="827" type="line"/>
+      <point x="576" y="641" type="line"/>
+      <point x="83" y="458" type="line"/>
+      <point x="74" y="437"/>
+      <point x="60" y="384"/>
+      <point x="53" y="360" type="curve"/>
+      <point x="78" y="335" type="line"/>
+      <point x="743" y="580" type="line"/>
+      <point x="757" y="610"/>
+      <point x="768" y="648"/>
+      <point x="774" y="678" type="curve"/>
+      <point x="750" y="705" type="line"/>
+      <point x="136" y="931" type="line"/>
+      <point x="110" y="912"/>
+      <point x="80" y="886"/>
+    </contour>
+    <contour>
+      <point x="774" y="255" type="curve"/>
+      <point x="749" y="279" type="line"/>
+      <point x="85" y="279" type="line"/>
+      <point x="74" y="255"/>
+      <point x="59" y="220"/>
+      <point x="53" y="195" type="curve"/>
+      <point x="78" y="169" type="line"/>
+      <point x="743" y="169" type="line"/>
+      <point x="750" y="191"/>
+      <point x="767" y="229"/>
+    </contour>
+  </outline>
+</glyph>

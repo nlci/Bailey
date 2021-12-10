@@ -22,4 +22,15 @@
       <string>\u0d3a</string>
     </test>
   </testgroup>
+  <testgroup label="added glyphs">
+    <test label="endash">
+      <string>\u0d66\u2013\u0d67 \u0031\u2013\u0032</string>
+    </test>
+    <test label="emdash">
+      <string>\u0d15\u2014\u0d2e \u004b\u2014\u004d \u006b\u2014\u006d</string>
+    </test>
+    <test label="dandas">
+      <string>\u0d15\u0d2e\u0964 \u0d15\u0d2e\u0965</string>
+    </test>
+  </testgroup>
 </ftml>

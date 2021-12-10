@@ -3,3 +3,5 @@
 *Ydieresis = Y + gcDieresis | 0178
 *Zcaron = Z + gcCircumflex@`~top+100` | 017D
 *zcaron = z + gccircumflex@`~top+100` | 017E
+rs = R & s | 20A8
+divisionslash = slash | 2215

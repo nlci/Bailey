@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="openbox" format="2">
+  <advance width="510"/>
+  <unicode hex="2423"/>
+  <outline>
+    <contour>
+      <point x="401" y="-7" type="curve"/>
+      <point x="401" y="-136" type="line"/>
+      <point x="109" y="-136" type="line"/>
+      <point x="109" y="18" type="line"/>
+      <point x="79" y="45" type="line"/>
+      <point x="55" y="38"/>
+      <point x="16" y="10"/>
+      <point x="0" y="-7" type="curve"/>
+      <point x="0" y="-220" type="line"/>
+      <point x="23" y="-245" type="line"/>
+      <point x="449" y="-245" type="line"/>
+      <point x="473" y="-232"/>
+      <point x="494" y="-212"/>
+      <point x="510" y="-196" type="curve"/>
+      <point x="510" y="18" type="line"/>
+      <point x="480" y="45" type="line"/>
+      <point x="458" y="33"/>
+      <point x="416" y="7"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hairspace" format="2">
+  <advance width="91"/>
+  <unicode hex="200A"/>
+  <anchor x="45" y="0" name="H"/>
+  <anchor x="45" y="-91" name="L"/>
+  <anchor x="54" y="0" name="O"/>
+  <anchor x="91" y="819" name="R"/>
+  <anchor x="45" y="1305" name="U"/>
+  <outline/>
+</glyph>

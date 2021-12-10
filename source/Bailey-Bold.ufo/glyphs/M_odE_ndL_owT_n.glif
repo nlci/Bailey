@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModEndLowTn" format="2">
+  <advance width="574"/>
+  <outline>
+    <contour>
+      <point x="48" y="-276" type="line"/>
+      <point x="531" y="-276" type="line"/>
+      <point x="531" y="318" type="line"/>
+      <point x="411" y="318" type="line"/>
+      <point x="411" y="-170" type="line"/>
+      <point x="48" y="-170" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphentwo" format="2">
+  <advance width="667"/>
+  <unicode hex="2010"/>
+  <anchor x="340" y="955" name="U"/>
+  <outline>
+    <contour>
+      <point x="619" y="503" type="curve"/>
+      <point x="589" y="532" type="line"/>
+      <point x="89" y="532" type="line"/>
+      <point x="78" y="508"/>
+      <point x="54" y="455"/>
+      <point x="48" y="429" type="curve"/>
+      <point x="77" y="400" type="line"/>
+      <point x="577" y="400" type="line"/>
+      <point x="586" y="420"/>
+      <point x="612" y="477"/>
+    </contour>
+  </outline>
+</glyph>

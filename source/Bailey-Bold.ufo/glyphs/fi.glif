@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fi" format="2">
+  <advance width="1192"/>
+  <unicode hex="FB01"/>
+  <anchor x="839" y="-91" name="L"/>
+  <anchor x="1073" y="819" name="R"/>
+  <anchor x="839" y="1474" name="U"/>
+  <outline>
+    <component base="LtnSmF"/>
+    <component base="LtnSmI" xOffset="632"/>
+  </outline>
+</glyph>
