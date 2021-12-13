@@ -2,7 +2,6 @@
 <glyph name="hyphentwo" format="2">
   <advance width="667"/>
   <unicode hex="2010"/>
-  <anchor x="340" y="955" name="U"/>
   <outline>
     <contour>
       <point x="619" y="503" type="curve"/>

@@ -2,10 +2,5 @@
 <glyph name="punctuationspace" format="2">
   <advance width="413"/>
   <unicode hex="2008"/>
-  <anchor x="212" y="0" name="H"/>
-  <anchor x="212" y="-91" name="L"/>
-  <anchor x="235" y="0" name="O"/>
-  <anchor x="425" y="819" name="R"/>
-  <anchor x="212" y="1305" name="U"/>
   <outline/>
 </glyph>

@@ -19,7 +19,7 @@ with Reserved Font Names "Bailey" and "NLCI".
   <key>familyName</key>
   <string>Bailey</string>
   <key>openTypeHeadCreated</key>
-  <string>2021/12/10 15:37:35</string>
+  <string>2021/12/13 11:12:39</string>
   <key>openTypeHheaAscender</key>
   <integer>1434</integer>
   <key>openTypeHheaDescender</key>
@@ -147,7 +147,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>openTypeNameUniqueID</key>
   <string>Swathanthra Malayalam Computing: Bailey Bold: 2021</string>
   <key>openTypeNameVersion</key>
-  <string>Version 0.200</string>
+  <string>Version 0.201</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -257,7 +257,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>versionMajor</key>
   <integer>0</integer>
   <key>versionMinor</key>
-  <integer>200</integer>
+  <integer>201</integer>
   <key>xHeight</key>
   <integer>860</integer>
 </dict>

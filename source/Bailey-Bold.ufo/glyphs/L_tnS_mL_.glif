@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmL" format="2">
   <advance width="559"/>
-  <anchor x="286" y="0" name="H"/>
-  <anchor x="286" y="-91" name="L"/>
-  <anchor x="541" y="819" name="R"/>
-  <anchor x="286" y="1537" name="U"/>
   <outline>
     <contour>
       <point x="47" y="0" type="line"/>

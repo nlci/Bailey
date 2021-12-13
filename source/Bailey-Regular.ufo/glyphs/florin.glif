@@ -2,8 +2,6 @@
 <glyph name="florin" format="2">
   <advance width="554"/>
   <unicode hex="0192"/>
-  <anchor x="247" y="-546" name="L"/>
-  <anchor x="247" y="1537" name="U"/>
   <outline>
     <contour>
       <point x="743" y="1323" type="curve"/>

@@ -3,7 +3,7 @@
 ar=../tools/archive
 for ufo in *.ufo
 do
-    psfsetversion $ufo 0.200
+    psfsetversion $ufo 0.201
     $ar/reverse-direction.py $ufo
 done
 psfgetglyphnames -i $ar/copy-regular.txt Bailey-R*.ufo glyphs.csv
@@ -30,17 +30,25 @@ psfrenameglyphs -i $ar/rename.csv Bailey-B*.ufo
 psfrenameglyphs -i $ar/rename.csv Bailey-R*.ufo
 psfsetunicodes -i $ar/encode-bold.csv Bailey-B*.ufo
 
-# import more Latin characters
+# import more characters
+$HOME/script/tools/anchor-keep.py mark Bailey-B*.ufo
+$HOME/script/tools/anchor-keep.py mark Bailey-R*.ufo
+
+## import more Latin characters
 gentium=$HOME/script/latn/fonts/gentium_local/instances
 psfgetglyphnames -a ~/script/zind/fonts/aglfn-nr.csv -i $ar/main_import.txt $gentium/GentiumBookPlus-Regular.ufo glyphs.csv
 psfcopyglyphs --rename rename --unicode usv --scale 0.91 -s $gentium/GentiumPlus-Bold.ufo        -i glyphs.csv Bailey-B*.ufo
 psfcopyglyphs --rename rename --unicode usv --scale 0.91 -s $gentium/GentiumBookPlus-Regular.ufo -i glyphs.csv Bailey-R*.ufo
 
-# import Devanagari characters
+## import Devanagari characters
 panini=$HOME/script/deva/fonts/panini/source
 psfgetglyphnames -a ~/script/zind/fonts/aglfn-nr.csv -i $ar/deva_import.txt $panini/Panini-Regular.ufo glyphs.csv
 psfcopyglyphs --rename rename --unicode usv -s $panini/Panini-Bold.ufo    -i glyphs.csv Bailey-B*.ufo
 psfcopyglyphs --rename rename --unicode usv -s $panini/Panini-Regular.ufo -i glyphs.csv Bailey-R*.ufo
+
+## finish importing other characters
+$HOME/script/tools/anchor-keep.py only Bailey-B*.ufo
+$HOME/script/tools/anchor-keep.py only Bailey-R*.ufo
 
 # fix width of space characters
 $HOME/script/tools/fix-spaces.py Bailey-B*.ufo

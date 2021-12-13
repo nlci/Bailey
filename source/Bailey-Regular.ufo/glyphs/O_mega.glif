@@ -2,8 +2,6 @@
 <glyph name="Omega" format="2">
   <advance width="1207"/>
   <unicode hex="03A9"/>
-  <anchor x="59" y="1146" name="G"/>
-  <anchor x="594" y="-91" name="L"/>
   <outline>
     <contour>
       <point x="1092" y="693" type="curve" smooth="yes"/>

@@ -2,7 +2,6 @@
 <glyph name="nbhyphen" format="2">
   <advance width="662"/>
   <unicode hex="2011"/>
-  <anchor x="313" y="955" name="U"/>
   <outline>
     <component base="HyphenMinus"/>
   </outline>

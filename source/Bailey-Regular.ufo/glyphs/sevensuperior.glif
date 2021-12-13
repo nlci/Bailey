@@ -2,8 +2,6 @@
 <glyph name="sevensuperior" format="2">
   <advance width="628"/>
   <unicode hex="2077"/>
-  <anchor x="294" y="495" name="L"/>
-  <anchor x="323" y="1314" name="U"/>
   <outline>
     <contour>
       <point x="586" y="1201" type="curve"/>

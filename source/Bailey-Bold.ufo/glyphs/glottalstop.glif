@@ -2,9 +2,6 @@
 <glyph name="glottalstop" format="2">
   <advance width="878"/>
   <unicode hex="0294"/>
-  <anchor x="448" y="-91" name="L"/>
-  <anchor x="877" y="819" name="R"/>
-  <anchor x="448" y="1537" name="U"/>
   <outline>
     <contour>
       <point x="182" y="0" type="line"/>

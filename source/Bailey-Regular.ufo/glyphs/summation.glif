@@ -2,8 +2,6 @@
 <glyph name="summation" format="2">
   <advance width="985"/>
   <unicode hex="2211"/>
-  <anchor x="490" y="-91" name="L"/>
-  <anchor x="505" y="1246" name="U"/>
   <outline>
     <component base="LtnCapEsh"/>
   </outline>

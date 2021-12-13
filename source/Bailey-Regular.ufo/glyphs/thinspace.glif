@@ -2,10 +2,5 @@
 <glyph name="thinspace" format="2">
   <advance width="410"/>
   <unicode hex="2009"/>
-  <anchor x="136" y="0" name="H"/>
-  <anchor x="136" y="-91" name="L"/>
-  <anchor x="154" y="0" name="O"/>
-  <anchor x="273" y="819" name="R"/>
-  <anchor x="136" y="1305" name="U"/>
   <outline/>
 </glyph>

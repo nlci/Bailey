@@ -2,8 +2,6 @@
 <glyph name="Ohm" format="2">
   <advance width="1207"/>
   <unicode hex="2126"/>
-  <anchor x="59" y="1146" name="G"/>
-  <anchor x="594" y="-91" name="L"/>
   <outline>
     <component base="Omega"/>
   </outline>

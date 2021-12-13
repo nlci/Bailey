@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapEsh" format="2">
   <advance width="985"/>
-  <anchor x="490" y="-91" name="L"/>
-  <anchor x="505" y="1246" name="U"/>
   <outline>
     <contour>
       <point x="932" y="327" type="curve"/>

@@ -2,8 +2,6 @@
 <glyph name="pi" format="2">
   <advance width="1073"/>
   <unicode hex="03C0"/>
-  <anchor x="554" y="-91" name="L"/>
-  <anchor x="554" y="955" name="U"/>
   <outline>
     <contour>
       <point x="841" y="663" type="curve" smooth="yes"/>

@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmF" format="2">
   <advance width="597"/>
-  <anchor x="261" y="0" name="H"/>
-  <anchor x="295" y="-91" name="L"/>
-  <anchor x="400" y="1474" name="U"/>
   <outline>
     <contour>
       <point x="765" y="1323" type="curve"/>
