@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emspace" format="2">
-  <advance width="1427"/>
+  <advance width="2048"/>
   <unicode hex="2003"/>
   <anchor x="713" y="0" name="H"/>
   <anchor x="713" y="-91" name="L"/>

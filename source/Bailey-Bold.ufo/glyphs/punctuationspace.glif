@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="punctuationspace" format="2">
-  <advance width="501"/>
+  <advance width="475"/>
   <unicode hex="2008"/>
   <anchor x="212" y="0" name="H"/>
   <anchor x="212" y="-91" name="L"/>

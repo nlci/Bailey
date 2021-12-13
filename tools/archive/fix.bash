@@ -41,3 +41,7 @@ panini=$HOME/script/deva/fonts/panini/source
 psfgetglyphnames -a ~/script/zind/fonts/aglfn-nr.csv -i $ar/deva_import.txt $panini/Panini-Regular.ufo glyphs.csv
 psfcopyglyphs --rename rename --unicode usv -s $panini/Panini-Bold.ufo    -i glyphs.csv Bailey-B*.ufo
 psfcopyglyphs --rename rename --unicode usv -s $panini/Panini-Regular.ufo -i glyphs.csv Bailey-R*.ufo
+
+# fix width of space characters
+$HOME/script/tools/fix-spaces.py Bailey-B*.ufo
+$HOME/script/tools/fix-spaces.py Bailey-R*.ufo
