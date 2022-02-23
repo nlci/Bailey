@@ -4,7 +4,7 @@ Original Rachana Regular digitized data copyright
 Original Rachana Bold digitized data copyright
 (c) 2015-2017 Hussain KH, Rajeesh K Nambiar, Santhosh Thottingal, Swathanthra Malayalam Computing (http://smc.org.in).
 Developed with the financial support from International Centre for Free and Open Source Software(ICFOSS), Govt of Kerala in 2014-15
-Additions and enhancements copyright (c) 2019-2021, NLCI (http://www.nlci.in/fonts/)
+Additions and enhancements copyright (c) 2019-2022, NLCI (http://www.nlci.in/fonts/)
 with Reserved Font Names "Bailey" and "NLCI".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
