@@ -3,7 +3,7 @@
   <advance width="1207"/>
   <unicode hex="2126"/>
   <outline>
-    <component base="Omega"/>
+    <component base="Omegagreek"/>
   </outline>
   <lib>
     <dict>
