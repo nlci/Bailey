@@ -13,6 +13,7 @@ jobs:
       - name: Install smith toolchain
         run: |
           sudo add-apt-repository -y ppa:silnrsi/smith-py3
+          sudo add-apt-repository -y ppa:sile-typesetter/sile
           # sudo add-apt-repository -y ppa:fontforge/fontforge
           # sudo add-apt-repository -y ppa:jonathonf/texlive-2019
           # sudo add-apt-repository -y ppa:git-core/ppa
