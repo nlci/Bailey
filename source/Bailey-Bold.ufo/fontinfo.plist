@@ -15,15 +15,15 @@ Additions and enhancements copyright (c) 2019-2022, NLCI (http://www.nlci.in/fon
 with Reserved Font Names "Bailey" and "NLCI".
 </string>
   <key>descender</key>
-  <integer>-614</integer>
+  <integer>-1304</integer>
   <key>familyName</key>
   <string>Bailey</string>
   <key>openTypeHeadCreated</key>
-  <string>2022/02/23 14:55:12</string>
+  <string>2022/03/29 10:59:37</string>
   <key>openTypeHheaAscender</key>
   <integer>1434</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-614</integer>
+  <integer>-1304</integer>
   <key>openTypeHheaLineGap</key>
   <integer>0</integer>
   <key>openTypeNameDescription</key>
@@ -147,7 +147,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>openTypeNameUniqueID</key>
   <string>Swathanthra Malayalam Computing: Bailey Bold: 2022</string>
   <key>openTypeNameVersion</key>
-  <string>Version 0.201</string>
+  <string>Version 0.202</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -195,7 +195,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>openTypeOS2TypoAscender</key>
   <integer>1434</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-614</integer>
+  <integer>-1304</integer>
   <key>openTypeOS2TypoLineGap</key>
   <integer>0</integer>
   <key>openTypeOS2UnicodeRanges</key>
@@ -233,7 +233,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>openTypeOS2WinAscent</key>
   <integer>1434</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>614</integer>
+  <integer>1304</integer>
   <key>postscriptFontName</key>
   <string>Bailey-Bold</string>
   <key>postscriptFullName</key>
@@ -257,7 +257,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>versionMajor</key>
   <integer>0</integer>
   <key>versionMinor</key>
-  <integer>201</integer>
+  <integer>202</integer>
   <key>xHeight</key>
   <integer>860</integer>
 </dict>

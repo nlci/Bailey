@@ -3,7 +3,7 @@
 ar=../tools/archive
 for ufo in *.ufo
 do
-    psfsetversion $ufo 0.201
+    psfsetversion $ufo 0.202
     $ar/reverse-direction.py $ufo
 done
 psfgetglyphnames -i $ar/copy-regular.txt Bailey-R*.ufo glyphs.csv
@@ -53,3 +53,7 @@ $HOME/script/tools/anchor-keep.py only Bailey-R*.ufo
 # fix width of space characters
 $HOME/script/tools/fix-spaces.py Bailey-B*.ufo
 $HOME/script/tools/fix-spaces.py Bailey-R*.ufo
+
+# set line spacing
+$HOME/script/tools/line_spacing.py Bailey-B*.ufo
+$HOME/script/tools/line_spacing.py Bailey-R*.ufo
