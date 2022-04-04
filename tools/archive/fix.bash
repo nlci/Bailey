@@ -35,9 +35,9 @@ $HOME/script/tools/anchor-keep.py mark Bailey-R*.ufo
 
 ## import more Latin characters
 gentium=$HOME/script/latn/fonts/gentium_local/instances
-psfgetglyphnames -a ~/script/smithplus/etc/glyph_names/glyph_names.csv -i $ar/main_import.txt $gentium/GentiumBookPlus-Regular.ufo glyphs.csv
-psfcopyglyphs --rename rename --unicode usv --scale 0.91 -s $gentium/GentiumPlus-Bold.ufo        -i glyphs.csv Bailey-B*.ufo
-psfcopyglyphs --rename rename --unicode usv --scale 0.91 -s $gentium/GentiumBookPlus-Regular.ufo -i glyphs.csv Bailey-R*.ufo
+psfgetglyphnames -a ~/script/smithplus/etc/glyph_names/glyph_names.csv -i $ar/main_import.txt $gentium/Gentium-Medium.ufo glyphs.csv
+psfcopyglyphs --rename rename --unicode usv --scale 0.91 -s $gentium/Gentium-Bold.ufo   -i glyphs.csv Bailey-B*.ufo
+psfcopyglyphs --rename rename --unicode usv --scale 0.91 -s $gentium/Gentium-Medium.ufo -i glyphs.csv Bailey-R*.ufo
 
 ## import Devanagari characters
 panini=$HOME/script/deva/fonts/panini/source
