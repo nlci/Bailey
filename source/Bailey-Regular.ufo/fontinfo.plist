@@ -225,7 +225,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <integer>91</integer>
   </array>
   <key>openTypeOS2VendorID</key>
-  <string>SMC </string>
+  <string>NLCI</string>
   <key>openTypeOS2WeightClass</key>
   <integer>400</integer>
   <key>openTypeOS2WidthClass</key>
