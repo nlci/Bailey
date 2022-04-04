@@ -28,7 +28,6 @@ psfdeleteglyphs -i $ar/delete.txt Bailey-R*.ufo
 psfrenameglyphs -i $ar/rename-bold.csv Bailey-B*.ufo
 psfrenameglyphs -i $ar/rename.csv Bailey-B*.ufo
 psfrenameglyphs -i $ar/rename.csv Bailey-R*.ufo
-psfsetunicodes -i $ar/encode-bold.csv Bailey-B*.ufo
 
 # import more characters
 $HOME/script/tools/anchor-keep.py mark Bailey-B*.ufo

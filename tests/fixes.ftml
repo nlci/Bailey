@@ -11,6 +11,19 @@
     <fontsrc>url(../references/Rachana-Bold.ttf)</fontsrc>
     <title>Fixes</title>
   </head>
+  <testgroup label="copied from regular to bold">
+    <test label="Latin">
+      <string>\u00AF \u00B7 \u00F7 \u00FE \u0131 \u02C6 \u02DA \u02DC \u2212</string>
+    </test>
+    <test label="Malayalam">
+      <string>\u0D62 \u0D63 \u0D70 \u0D71 \u0D72 \u0D73 \u0D74 \u0D75 \u0D79</string>
+    </test>
+  </testgroup>
+  <testgroup label="contrast">
+    <test label="jha nya dda ddha">
+      <string>\u0d1d \u0d1e \u0d21 \u0d22</string>
+    </test>
+  </testgroup>
   <testgroup label="fixed glyphs">
     <test label="rupee">
       <string>\u20b9</string>
