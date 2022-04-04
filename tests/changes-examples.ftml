@@ -3,12 +3,15 @@
 <ftml version="1.0">
   <head>
     <fontscale>300</fontscale>
-    <fontsrc>url(../results/Bailey-Regular.ttf)</fontsrc>
-    <fontsrc>url(../references/Bailey-Regular.ttf)</fontsrc>
-    <fontsrc>url(../references/Rachana-Regular.ttf)</fontsrc>
-    <fontsrc>url(../results/Bailey-Bold.ttf)</fontsrc>
-    <fontsrc>url(../references/Bailey-Bold.ttf)</fontsrc>
-    <fontsrc>url(../references/Rachana-Bold.ttf)</fontsrc>
+    <fontsrc label="R">url(../results/Bailey-Regular.ttf)</fontsrc>
+    <fontsrc label="RefR">url(../references/Bailey-Regular.ttf)</fontsrc>
+    <fontsrc label="RachanaR">url(../references/Rachana-Regular.ttf)</fontsrc>
+    <fontsrc label="B">url(../results/Bailey-Bold.ttf)</fontsrc>
+    <fontsrc label="RefB">url(../references/Bailey-Bold.ttf)</fontsrc>
+    <fontsrc label="RachanaB">url(../references/Rachana-Bold.ttf)</fontsrc>
+    <fontsrc label="NotoSerif">url(../references/NotoSerifMalayalam-Regular.ttf)</fontsrc>
+    <fontsrc label="NotoSans">url(../references/NotoSansMalayalam-Regular.ttf)</fontsrc>
+    <fontsrc label="NotoSansUI">url(../references/NotoSansMalayalamUI-Regular.ttf)</fontsrc>
     <title>Changes - Examples</title>
   </head>
   <testgroup label="u uu and vocalic r matras">

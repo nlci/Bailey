@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="northOneHalf" format="2">
+  <advance width="696"/>
+  <unicode hex="A831"/>
+  <outline>
+    <component base="danda"/>
+    <component base="danda" xOffset="241"/>
+  </outline>
+</glyph>

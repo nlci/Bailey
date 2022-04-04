@@ -5,6 +5,11 @@ psfnormalize -p checkfix=fix source/Bailey-Regular.ufo   &
 psfnormalize -p checkfix=fix source/Bailey-Bold.ufo &
 wait
 
+# Build composites
+psfbuildcomp -i source/composites.txt source/Bailey-Regular.ufo &
+psfbuildcomp -i source/composites.txt source/Bailey-Bold.ufo &
+wait
+
 # Update glyph order in Regular UFO
 psfsetglyphorder --header sort_final -i source/glyph_data.csv source/Bailey-Regular.ufo
 

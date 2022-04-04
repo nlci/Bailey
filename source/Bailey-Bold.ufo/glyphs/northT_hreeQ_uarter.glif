@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="northThreeQuarter" format="2">
+  <advance width="1365"/>
+  <unicode hex="A832"/>
+  <outline>
+    <component base="danda"/>
+    <component base="danda" xOffset="455"/>
+    <component base="danda" xOffset="910"/>
+  </outline>
+</glyph>

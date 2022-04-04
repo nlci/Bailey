@@ -244,6 +244,8 @@
     <string>cgj</string>
     <string>Omegagreek</string>
     <string>pi</string>
+    <string>udatta</string>
+    <string>anudatta</string>
     <string>danda</string>
     <string>dandadbl</string>
     <string>anusvaraabove</string>
@@ -351,6 +353,7 @@
     <string>l3cil</string>
     <string>lhcil</string>
     <string>k1cil</string>
+    <string>vedictonedoublesvarita</string>
     <string>enquad</string>
     <string>emquad</string>
     <string>enspace</string>
@@ -434,6 +437,9 @@
     <string>halfbracketrighttop</string>
     <string>halfbracketleftbottom</string>
     <string>halfbracketrightbottom</string>
+    <string>northOneQuarter</string>
+    <string>northOneHalf</string>
+    <string>northThreeQuarter</string>
     <string>sidebearingleft</string>
     <string>sidebearingright</string>
     <string>fi</string>

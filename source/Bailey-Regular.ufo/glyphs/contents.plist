@@ -224,6 +224,8 @@
   <string>ai1.glif</string>
   <key>ampersand</key>
   <string>ampersand.glif</string>
+  <key>anudatta</key>
+  <string>anudatta.glif</string>
   <key>anusvara</key>
   <string>anusvara.glif</string>
   <key>anusvaraabove</key>
@@ -1334,6 +1336,12 @@
   <string>nnbspace.glif</string>
   <key>nonmarkingreturn</key>
   <string>nonmarkingreturn.glif</string>
+  <key>northOneHalf</key>
+  <string>northO_neH_alf.glif</string>
+  <key>northOneQuarter</key>
+  <string>northO_neQ_uarter.glif</string>
+  <key>northThreeQuarter</key>
+  <string>northT_hreeQ_uarter.glif</string>
   <key>notequal</key>
   <string>notequal.glif</string>
   <key>ntilde</key>
@@ -2324,6 +2332,8 @@
   <string>uacute.glif</string>
   <key>ucircumflex</key>
   <string>ucircumflex.glif</string>
+  <key>udatta</key>
+  <string>udatta.glif</string>
   <key>udieresis</key>
   <string>udieresis.glif</string>
   <key>ugrave</key>
@@ -2376,6 +2386,8 @@
   <string>v1xx.glif</string>
   <key>v2</key>
   <string>v2.glif</string>
+  <key>vedictonedoublesvarita</key>
+  <string>vedictonedoublesvarita.glif</string>
   <key>verticalbarvirama</key>
   <string>verticalbarvirama.glif</string>
   <key>visarga</key>
