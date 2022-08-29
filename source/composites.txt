@@ -1,0 +1,3 @@
+northOneQuarter = danda | A830
+northOneHalf = dandadbl | A831
+northThreeQuarter = danda & danda & danda | A832

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+pushd source
+../tools/archive/sfd2ufo.bash
+../tools/archive/fix.bash
+popd
+./preflight
+source .smithrc
+gdcsv
+./preflight
