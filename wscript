@@ -21,7 +21,7 @@ designspace('source/' + FAMILY + '.designspace',
         no_make = 1,
         ),
     version = VERSION,
-    woff = woff('web/${DS:FILENAME_BASE}',
+    woff = woff('web/${DS:FILENAME_BASE}', type='woff2',
         metadata = f'../source/{FAMILY}-WOFF-metadata.xml'),
     script = ['mlm2', 'mlym'],
     pdf = fret(params='-oi')

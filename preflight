@@ -20,7 +20,7 @@ psfsetglyphorder --header sort_final -i source/glyph_data.csv source/Bailey-Regu
 psfsyncmasters -q source/Bailey.designspace
 
 # Create WOFF metadata file
-psfmakewoffmetadata -n Bailey -i in.nlci.fonts -o source/Bailey-WOFF-metadata.xml source/Bailey-Regular.ufo # --populateufowoff --force
+psfmakewoffmetadata -n bailey -i in.nlci.fonts -o source/Bailey-WOFF-metadata.xml source/Bailey-Regular.ufo
 
 # Update FEA in UFO
 psfmakefea -o source/Bailey-Regular.ufo/features.fea -i features/Rachana-Regular.fea source/Bailey-Regular.ufo &
