@@ -9,7 +9,8 @@ do
     fontforge -script $ar/sfd2ufo.ff $sfd ${fontfilename}.ufo3
     mv -v ${fontfilename}.ufo3 ${fontfilename}.ufo
 
-    # Work around https://github.com/fontforge/fontforge/issues/4951
+    # Set WOFF metadata in UFOs
+    # Also works around https://github.com/fontforge/fontforge/issues/4951
     fontinfo=${fontfilename}.ufo/fontinfo.plist
     head -n -3 ${fontinfo} > tmp.plist
     mv tmp.plist ${fontinfo}

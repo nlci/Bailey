@@ -9,18 +9,9 @@
       role="NLCI designers and font engineers"
     />
   </credits>
-  <description>
+  <description url="http://www.nlci.in/fonts/">
     <text lang="en">
-      Malayalam font based on Rachana supporting an orthography in between the traditional orthography of Rachana
-      and the Malayalam reformed orthography.
-      
-      ChangeLog
-      ---------
-      (This should list both major and minor changes, most recent first.)
-      
-      unreleased
-      07 Oct 2019 (Dev NLCI) NLCI Bailey fonts version 0.100
-      - Initial changes from Rachana
+      Malayalam font based on Rachana supporting an orthography in between the traditional orthography of Rachana and the Malayalam reformed orthography.
     </text>
   </description>
   <license url="http://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
