@@ -75,9 +75,7 @@
       <point x="2010" y="-400"/>
       <point x="2174" y="-181"/>
       <point x="2196" y="-16" type="curve"/>
-      <point x="2196" y="291"/>
-      <point x="2196" y="599"/>
-      <point x="2196" y="906" type="curve"/>
+      <point x="2196" y="906" type="line"/>
       <point x="2142" y="906" type="line"/>
       <point x="2080" y="715"/>
       <point x="1819" y="497"/>

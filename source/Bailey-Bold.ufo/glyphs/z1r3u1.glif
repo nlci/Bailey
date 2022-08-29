@@ -121,9 +121,7 @@
       <point x="1587" y="-297"/>
       <point x="1598" y="-270"/>
       <point x="1620" y="-249" type="curve"/>
-      <point x="1654" y="-233"/>
-      <point x="1654" y="-233"/>
-      <point x="1688" y="-217" type="curve"/>
+      <point x="1688" y="-217" type="line"/>
       <point x="1694" y="-217" type="line"/>
       <point x="1759" y="-214"/>
       <point x="1800" y="-276"/>

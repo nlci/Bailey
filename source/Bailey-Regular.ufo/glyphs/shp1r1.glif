@@ -103,9 +103,7 @@
       <point x="1781" y="-892"/>
       <point x="1886" y="-796"/>
       <point x="1886" y="-604" type="curve" smooth="yes"/>
-      <point x="1886" y="-102"/>
-      <point x="1886" y="400"/>
-      <point x="1886" y="902" type="curve"/>
+      <point x="1886" y="902" type="line"/>
       <point x="1832" y="902" type="line"/>
       <point x="1770" y="708"/>
       <point x="1529" y="492"/>

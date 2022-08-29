@@ -34,9 +34,7 @@
       <point x="1576" y="-559"/>
       <point x="1597" y="-539"/>
       <point x="1604" y="-534" type="curve" smooth="yes"/>
-      <point x="1614" y="-524"/>
-      <point x="1614" y="-524"/>
-      <point x="1658" y="-480" type="curve" smooth="yes"/>
+      <point x="1658" y="-480" type="line" smooth="yes"/>
       <point x="1689" y="-449"/>
       <point x="1709" y="-425"/>
       <point x="1718" y="-408" type="curve"/>

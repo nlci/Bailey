@@ -130,9 +130,7 @@
       <point x="1914" y="-70"/>
       <point x="1956" y="-36"/>
       <point x="1996" y="-24" type="curve"/>
-      <point x="2013" y="-24"/>
-      <point x="2029" y="-24"/>
-      <point x="2046" y="-24" type="curve"/>
+      <point x="2046" y="-24" type="line"/>
       <point x="2128" y="-48"/>
       <point x="2130" y="-111"/>
       <point x="2130" y="-118" type="curve" smooth="yes"/>

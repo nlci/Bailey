@@ -171,9 +171,7 @@
     </contour>
     <contour>
       <point x="1032" y="-229" type="curve" smooth="yes"/>
-      <point x="1032" y="-219"/>
-      <point x="1032" y="-219"/>
-      <point x="1032" y="-211" type="curve" smooth="yes"/>
+      <point x="1032" y="-211" type="line" smooth="yes"/>
       <point x="1032" y="-206"/>
       <point x="1032" y="-200"/>
       <point x="1033" y="-195" type="curve"/>

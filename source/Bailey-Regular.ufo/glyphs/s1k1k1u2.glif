@@ -190,9 +190,7 @@
       <point x="950" y="-347"/>
       <point x="951" y="-339"/>
       <point x="952" y="-330" type="curve"/>
-      <point x="952" y="-316"/>
-      <point x="952" y="-316"/>
-      <point x="952" y="-310" type="curve"/>
+      <point x="952" y="-310" type="line"/>
       <point x="1216" y="-310" type="line"/>
       <point x="1216" y="-446"/>
       <point x="1170" y="-514"/>

@@ -102,9 +102,7 @@
       <point x="1946" y="-57"/>
       <point x="1996" y="-2"/>
       <point x="2064" y="-2" type="curve" smooth="yes"/>
-      <point x="2067" y="-2"/>
-      <point x="2069" y="-2"/>
-      <point x="2072" y="-2" type="curve" smooth="yes"/>
+      <point x="2072" y="-2" type="line" smooth="yes"/>
       <point x="2144" y="-2"/>
       <point x="2192" y="-58"/>
       <point x="2192" y="-126" type="curve" smooth="yes"/>

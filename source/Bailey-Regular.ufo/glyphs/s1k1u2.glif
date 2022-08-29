@@ -147,9 +147,7 @@
       <point x="1400" y="-355"/>
       <point x="1401" y="-347"/>
       <point x="1402" y="-336" type="curve"/>
-      <point x="1402" y="-322"/>
-      <point x="1402" y="-322"/>
-      <point x="1402" y="-316" type="curve"/>
+      <point x="1402" y="-316" type="line"/>
       <point x="1668" y="-316" type="line"/>
       <point x="1668" y="-448"/>
       <point x="1622" y="-514"/>

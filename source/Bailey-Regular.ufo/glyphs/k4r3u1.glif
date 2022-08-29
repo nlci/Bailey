@@ -72,9 +72,7 @@
       <point x="2507" y="-237"/>
       <point x="2565" y="-140"/>
       <point x="2592" y="-16" type="curve"/>
-      <point x="2592" y="291"/>
-      <point x="2592" y="599"/>
-      <point x="2592" y="906" type="curve"/>
+      <point x="2592" y="906" type="line"/>
       <point x="2422" y="906" type="line"/>
       <point x="2422" y="74" type="line"/>
       <point x="1480" y="74" type="line"/>

@@ -137,9 +137,7 @@
       <point x="1360" y="-794"/>
       <point x="1379" y="-785"/>
       <point x="1394" y="-774" type="curve"/>
-      <point x="1396" y="-774"/>
-      <point x="1396" y="-774"/>
-      <point x="1402" y="-774" type="curve"/>
+      <point x="1402" y="-774" type="line"/>
       <point x="1407" y="-773"/>
       <point x="1411" y="-772"/>
       <point x="1414" y="-772" type="curve" smooth="yes"/>
