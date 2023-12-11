@@ -3,7 +3,7 @@
 ar=../tools/archive
 for ufo in *.ufo
 do
-    psfsetversion $ufo 0.202
+    psfsetversion $ufo 0.203
     $ar/reverse-direction.py $ufo
 done
 psfgetglyphnames -i $ar/copy-regular.txt Bailey-R*.ufo glyphs.csv

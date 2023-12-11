@@ -19,7 +19,7 @@ with Reserved Font Names "Bailey" and "NLCI".
   <key>familyName</key>
   <string>Bailey</string>
   <key>openTypeHeadCreated</key>
-  <string>2022/04/04 14:29:43</string>
+  <string>2023/09/29 10:54:44</string>
   <key>openTypeHheaAscender</key>
   <integer>1434</integer>
   <key>openTypeHheaDescender</key>
@@ -44,7 +44,7 @@ with Reserved Font Names "Bailey" and "NLCI".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+https://scripts.sil.org/OFL
 
 
 -----------------------------------------------------------
@@ -135,7 +135,7 @@ FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 </string>
   <key>openTypeNameLicenseURL</key>
-  <string>http://scripts.sil.org/OFL</string>
+  <string>https://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
   <string>Swathanthra Malayalam Computing</string>
   <key>openTypeNameManufacturerURL</key>
@@ -145,7 +145,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
   <key>openTypeNameUniqueID</key>
-  <string>Swathanthra Malayalam Computing: Bailey Bold: 2022</string>
+  <string>Swathanthra Malayalam Computing: Bailey Bold: 2023</string>
   <key>openTypeNameVersion</key>
   <string>Version 0.202</string>
   <key>openTypeOS2CodePageRanges</key>
