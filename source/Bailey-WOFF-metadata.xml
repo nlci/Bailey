@@ -14,7 +14,7 @@
       Malayalam font based on Rachana supporting an orthography in between the traditional orthography of Rachana and the Malayalam reformed orthography.
     </text>
   </description>
-  <license url="https://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
+  <license url="https://openfontlicense.org" id="org.sil.ofl.1.1">
     <text lang="en">
       Original Rachana Regular digitized data copyright
       (c) 2004-2005 Rachana Akshara Vedi (Chitrajakumar R, Hussain KH, Gangadharan N, Vijayakumaran Nair, Subash Kuraiakose)
@@ -27,7 +27,7 @@
       
       This Font Software is licensed under the SIL Open Font License, Version 1.1.
       This license is copied below, and is also available with a FAQ at:
-      https://scripts.sil.org/OFL
+      https://openfontlicense.org
       
       
       -----------------------------------------------------------
