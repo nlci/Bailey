@@ -25,7 +25,7 @@ do
     psfsetkeys -p backup=0 -k openTypeNamePreferredFamilyName -v Bailey $ufo
     psfsetkeys -p backup=0 -k styleMapFamilyName -v "Bailey" $ufo
     psfsetkeys -p backup=0 -i $ar/lib.csv --plist lib $ufo
-    psfsetkeys -p backup=0 -k openTypeNameDesignerURL -v "hussain.rachana@gmail.com http://smc.org.in" $ufo
+    psfsetkeys -p backup=0 -k openTypeNameDesignerURL -v "hussain.rachana@gmail.com https://smc.org.in" $ufo
     psfsetkeys -p backup=0 -k openTypeNameLicenseURL -v https://openfontlicense.org $ufo
     psfsetkeys -p backup=0 -k openTypeNameManufacturer -v "Swathanthra Malayalam Computing" $ufo
     psfsetkeys -p backup=0 -k openTypeOS2VendorID -v "NLCI" $ufo
